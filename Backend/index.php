@@ -1,0 +1,17 @@
+<html>
+    <head>
+      <?php include('h.php');?>
+    </head>
+  <body>
+    <div class="container">
+          <?php include('navbar.php');?>
+          <p></p>
+        <div class="row">
+          <div class="col-md-3">
+            <p> Hello <?php echo $name; ?></p>
+            <?php include('menu_left.php');?>
+          </div>
+        </div>
+    </div>
+  </body>
+</html>

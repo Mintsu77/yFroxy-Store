@@ -1,0 +1,8 @@
+ require('connect.php');
+ bg-color #212529
+ text color #FC0316
+
+ id	m_user m_namem_email	m_pass	m_phone	m_address	date_save
+
+
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
